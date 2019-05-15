@@ -1,0 +1,34 @@
+p {
+    color: white;
+}
+
+h1 {
+    color: white;
+    padding: 130px 0 50px;
+}
+
+.currency{
+    padding: 10px;
+}
+body {
+    background-image: url(/img/bg-img2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+label {
+    color: white;
+}
+
+.main {
+    height: 1000px;
+    width: auto;
+}
+
+.result {
+    color: aqua;
+}
+
+.input-group mb-3 {
+    width: 200px;
+}
